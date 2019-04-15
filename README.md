@@ -1,1 +1,1 @@
-# SimRNA_exapmle_files
+# SimRNA_example_files
